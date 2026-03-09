@@ -4,8 +4,8 @@ const zipList = [
     packageName: "hldm.zip",
   },
   {
-    name: "Uplink (45M)",
-    packageName: "uplink.zip",
+    name: "Half-Life",
+    packageName: "https://archive.org/download/mjayraffecomplexdirect/valve.zip",
   },
   {
     name: "Day One (78M)",
